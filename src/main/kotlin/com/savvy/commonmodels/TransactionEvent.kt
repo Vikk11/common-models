@@ -7,5 +7,5 @@ data class TransactionEvent (
         val userId: Long,
         val amount: BigDecimal,
         val type: String,
-        val categoryId: Long
+        val categoryId: Long?
 )
