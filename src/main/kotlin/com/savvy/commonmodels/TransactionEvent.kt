@@ -1,4 +1,4 @@
-package com.savvy.commonmodels.models
+package com.savvy.commonmodels
 
 import java.math.BigDecimal
 
